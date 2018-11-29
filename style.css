@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+}
+
+.button-container {
+    margin: auto;
+    text-align: center;
+
+}
+
+.image-container {
+    height:25rem;
+    width: 25rem;
+    margin: 6rem auto auto;
+    background-color: #eeeeee;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
